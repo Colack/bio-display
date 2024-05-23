@@ -1,0 +1,32 @@
+{
+    "default": {
+        "borderColor": "#00bfff",
+        "bgColor": "#333333",
+        "textColor": "#ffffff"
+    },
+    "green": {
+        "borderColor": "#333333",
+        "bgColor": "#ffffff",
+        "textColor": "#adff2f"
+    },
+    "red": {
+        "borderColor": "#333333",
+        "bgColor": "#ffffff",
+        "textColor": "#ff0000"
+    },
+    "purple": {
+        "borderColor": "#663399",
+        "bgColor": "#9370db",
+        "textColor": "#7cfc00"
+    },
+    "dark": {
+        "borderColor": "#FFFFFF",
+        "bgColor": "#333333",
+        "textColor": "#FFFFFF"
+    },
+    "light": {
+        "borderColor": "#333333",
+        "bgColor": "#FFFFFF",
+        "textColor": "#333333"
+    }
+}
